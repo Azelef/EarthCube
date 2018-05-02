@@ -10,7 +10,7 @@ cubeFinder.py generates random cubes with their 8 vertices on the surface of the
 -Draw a simple map of the world.
 -Draw a map of the world that show positions of the vertices of a given cube.
 
-                            ######## #############                                                                   
+>                            ######## #############                                                                   
 >                      #   ######  #################          ###                         # #                         
 >                  ##   ## #          #############                           ##         #######        ##            
 >                ###  #  #### ###      ############                         #    #  ######### #### ##                 
