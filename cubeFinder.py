@@ -31,7 +31,7 @@ def dispCube(cube,res):#Display a cube on a map
         for j in range(-170,181,res):
             bon=False
             for c in cube:
-                if (c[0]-i)**2+(c[1]-j)**2<50:
+                if (c[0]-i)**2+(c[1]-j)**2<2*res**2:
                     s+="X"
                     bon=True
             if not bon:
